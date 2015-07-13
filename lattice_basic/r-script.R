@@ -22,3 +22,4 @@ bwplot(gcsescore|gender,data=Chem97,xlab="Average GCSE score",layout=c(6,1),varw
 bwplot(gcsescore^2.34~gender|factor(score),data=Chem97,xlab="Average GCSE score",layout=c(6,1),varwidth=T)
 
 ###checking test ..test
+
