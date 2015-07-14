@@ -17,3 +17,4 @@ dotplot(Country.name~X2012,data=data,main="internet user per 100 people in 2012"
 
 ###barchart
 barchart(VADeaths,groups=F,layout=c(1,4),aspect=0.7,origin=0,type=c("p","h"),main="Death rates in virginia-1940",xlab="Rate")
+
